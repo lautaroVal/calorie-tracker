@@ -8,10 +8,8 @@ Aplicación para registrar comidas y ejercicios y llevar el control de las calor
 
 ## 📸 Capturas
 
-| Vista principal
-|---|---|
+![Vista principal](context-api-usereducer\public\screen-contador-de-calorias.png)
 
-![Vista principal](public\screen-contador-de-calorias.png) 
 
 ## ✨ Funcionalidades
 
