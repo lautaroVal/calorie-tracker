@@ -3,13 +3,15 @@
 Aplicación para registrar comidas y ejercicios y llevar el control de las calorías consumidas y quemadas durante el día. Esta es la **segunda versión** del proyecto: el manejo del estado se migró de `useReducer` con estados locales a **Context API + `useReducer` + un custom hook**.
 
 🔗 **Demo en vivo:** [Ver en Netlify](https://boisterous-kashata-fec8b1.netlify.app/)
+
 ("El proyecto subido no tiene las actualizaciones hechas de context de esta versión")
 
 ## 📸 Capturas
 
 | Vista principal
 |---|---|
-| ![Vista principal](public\screen-contador-de-calorias.png) 
+
+![Vista principal](public\screen-contador-de-calorias.png) 
 
 ## ✨ Funcionalidades
 
@@ -101,7 +103,7 @@ npm run dev
 
 ## 👤 Autor
 
-**Lautaro Valdez**
+**Lautaro Valenzuela**
 [GitHub](https://github.com/lautaroVal)
 
 ---
